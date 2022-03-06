@@ -771,3 +771,115 @@ D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Mi
 D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
 D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
 D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Micro-Social Platform.dll.config
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Micro-Social Platform.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Micro-Social Platform.pdb
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\csc.exe
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\csc.exe.config
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\csc.rsp
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\csi.exe
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\csi.exe.config
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\csi.rsp
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.AppContext.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Console.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.IO.Compression.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Security.Claims.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.ValueTuple.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\vbc.exe
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\vbc.exe.config
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\vbc.rsp
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\AntiXssLibrary.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Antlr3.Runtime.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\EntityFramework.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Newtonsoft.Json.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Owin.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.Helpers.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.Mvc.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.Optimization.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.Razor.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.WebPages.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\WebGrease.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\AntiXssLibrary.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.Helpers.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.Mvc.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.Optimization.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.Razor.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.WebPages.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Newtonsoft.Json.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Antlr3.Runtime.pdb
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\EntityFramework.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csprojAssemblyReference.cache
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\obj\Debug\Micro_Social_Platform.Migrations.Initial.resources
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.GenerateResource.cache
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CoreCompileInputs.cache
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
+C:\Users\razva\Source\Repos\Micro-Web-Social-Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb
+C:\Users\razva\source\repos\Micro-Web-Social-Platform\Micro-Social Platform\bin\WebDriver.dll
