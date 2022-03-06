@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (TempData.ContainsKey("message"))
+{
+
+    <div class="alert alert-warning">
+        <strong>Warning! </strong>@ViewBag.message
+    </div>
+
+}
+
+<div class="jumbotron">
+    <h2>Welcome <span class="accent">@ViewBag.user.NameUser</span>!</h2>
+    <div class="cont">
+        <p>Add your own post right now   </p>
+        <a class="glyphicon glyphicon-plus accent icon" href="/Posts/New"></a>
+    </div>
+</div>
+
+
+<br />
+
+@foreach (Micro_Social_Platform.Models.Post post in ViewBag.Posts)
+{
+
+    if (post.GroupId == null)
+    {
+        <div class="panel panel-default shadow">
+            @Html.Partial("PostInfo2", post)
+                    <div class="panel-footer aliniere">
+                        <a class=" btn btn-sm button" href="/Posts/Show/@post.PostId">Show more</a>
+                        @foreach (var prof in ViewBag.UsersProfiles)
+                        {
+                            if (prof.UserId == post.UserId && ((prof.IsPublic && ViewBag.friends.Contains(prof.UserId)) || User.IsInRole("Admin")))
+                            {
+                                <a class="btn btn-sm button pull-right" href="/Profiles/Show/@prof.ProfileId">View Profile</a>
+                            }
+                        }
+                    </div>
+        </div>
+    }
+}
+
+<div>
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <li>
+                <a href="/Posts/Index?page=1" aria-label="Previous">
+                    <span aria-hidden="true" style="color: #16a085">&laquo;</span>
+                </a>
+            </li>
+
+            @for (int i = 1; i <= ViewBag.lastPage; i++)
+            {
+                <li><a href="/Posts/Index?page=@i"><span style="color: #16a085">@(i)</span></a></li>
+            }
+
+            <li>
+                <a href="/Posts/Index?page=@(ViewBag.lastPage)" aria-label="Next">
+                    <span aria-hidden="true" style="color: #16a085">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

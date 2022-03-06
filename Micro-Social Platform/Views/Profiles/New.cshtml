@@ -1,0 +1,32 @@
+﻿@model Micro_Social_Platform.Models.Profile
+<div class="jumbotron">
+  
+
+    @using (Html.BeginForm("New", "Profiles", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+    {
+        @Html.Label("Name", "Name Profile")
+        <br />
+        @Html.TextBox("Name", null, new { @class = "form-control" })
+        @Html.ValidationMessage("Name", null, new { @class = "text-danger" })
+        <br /><br />
+
+        @Html.Label("Description", "Description Profile")
+        <br />
+        @Html.TextArea("Description", null, new { @class = "form-control" })
+        <br /><br />
+
+        @Html.Label("IsPublic", "Privacy Profile")
+        <br />
+        @Html.RadioButton("IsPublic", true, new { id = "public" })
+        @Html.Label("public", "Public")
+        <span>&nbsp</span>
+        @Html.RadioButton("IsPublic", false, new { id = "private" })
+        @Html.Label("private", "Private")
+        <br /><br />
+        <input type="file" name="uploadedFile" />
+        <br />
+        <button class="btn btn-sm button" type="submit">Submit</button>
+    }
+</div>
+

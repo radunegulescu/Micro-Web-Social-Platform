@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "ProfilePhoto";
+}
+<div class="jumbotron">
+    <h2>Add a profile picture!</h2>
+    
+    @using (Html.BeginForm("ProfilePhoto", "Profiles", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="uploadedFile" />
+        <br />
+        <button class="btn btn-sm button" type="submit">Submit</button>
+    }
+</div>

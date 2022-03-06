@@ -1,0 +1,58 @@
+﻿@helper Truncate(string input, int length)
+{
+    if (input.Length <= length)
+    {
+        @Html.Raw(input)
+    }
+    else
+    {
+        var thisString = input.Substring(0, length);
+        @Html.Raw(thisString)
+    }
+}
+<div class="media" style="background-color:#f5f6fa;">
+    <div class="panel-heading post-heading"></div>
+    @foreach (var file in ViewBag.files)
+    {
+
+        if (file.UserId == Model.User.Id)
+        {
+            <a class="pull-left" href="#" style="display: block; width: 10%; height: 100px; padding-left: 5px;">
+                <img class="media-object" src="/Files/@file.FileName" style="width: 100%; height: 100px; object-fit: cover" />
+            </a>
+        }
+
+    }
+
+    @foreach (var id in ViewBag.noPhoto)
+    {
+        if (id == Model.User.Id)
+        {
+            <a class="pull-left" href="#" style="display: block; width: 10%; height: 100px; padding-left: 5px;">
+                <img class="media-object" src="https://img2.thejournal.ie/inline/1881369/original/?width=630&version=1881369" style="width: 100%; height: 100px; object-fit: cover">
+            </a>
+        }
+    }
+
+    <div class="media-body">
+        <h4 class="media-heading post-title">@Model.Title</h4>
+        <div class="media ">
+            <div class="post-content-wrapper ">
+                <p class="truncate">@Truncate(Model.Content, 400)<span>...</span></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="post-meta">
+    <span>
+        <i class="glyphicon glyphicon-time"></i>
+        @Model.Date
+    </span>
+    <div>
+        <i class="glyphicon glyphicon-user"></i>
+        <strong> @Model.User.NameUser </strong>
+    </div>
+</div>
+
+
+

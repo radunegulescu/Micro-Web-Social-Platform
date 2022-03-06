@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Requests";
+}
+<div class="jumbotron">
+    <h2>Friend Requests</h2>
+    <br /><br />
+
+    @foreach (var friend in ViewBag.user.ReceivedRequests)
+    {
+        if (friend.Accepted == false && friend.Pending == true)
+        {
+            <li>@friend.User1.NameUser</li>
+            <br />
+            <div style="display: flex;">
+                <form method="post" action="/Users/Accept">
+                    <input type="hidden" name="FriendId" value="@friend.FriendId" />
+                    <button class="btn btn-sm  button" type="submit">Accept</button>
+                </form>
+                <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+                <form method="post" action="/Users/Reject">
+                    <input type="hidden" name="FriendId" value="@friend.FriendId" />
+                    <button class="btn btn-sm button2" type="submit">Reject</button>
+                </form>
+            </div>
+        }
+    }
+</div>

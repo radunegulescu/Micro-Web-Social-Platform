@@ -1,0 +1,773 @@
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csprojAssemblyReference.cache
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CoreCompileInputs.cache
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll.config
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.pdb
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe.config
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.rsp
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe.config
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.rsp
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.AppContext.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Collections.Immutable.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Console.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Compression.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.AccessControl.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Claims.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.ValueTuple.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe.config
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.rsp
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe.config
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Web.Infrastructure.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Owin.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\WebGrease.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.pdb
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro_Social_Platform.Migrations.Initial.resources
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.pdb
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Owin.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\WebGrease.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.pdb
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro_Social_Platform.Migrations.Initial.resources
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll.config
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.pdb
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe.config
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.rsp
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe.config
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.rsp
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.AppContext.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Collections.Immutable.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Console.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Compression.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.AccessControl.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Claims.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.ValueTuple.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe.config
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.rsp
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe.config
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Web.Infrastructure.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Owin.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\WebGrease.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.pdb
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csprojAssemblyReference.cache
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro_Social_Platform.Migrations.Initial.resources
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.GenerateResource.cache
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CoreCompileInputs.cache
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.dll
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.xml
+C:\Copie proiect Irina dupa instiintari\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.dll
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.xml
+C:\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll.config
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.pdb
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe.config
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.rsp
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe.config
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.rsp
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.AppContext.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Collections.Immutable.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Console.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Compression.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.AccessControl.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Claims.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.ValueTuple.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe.config
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.rsp
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe.config
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Web.Infrastructure.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Owin.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\WebGrease.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.pdb
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csprojAssemblyReference.cache
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro_Social_Platform.Migrations.Initial.resources
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.GenerateResource.cache
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CoreCompileInputs.cache
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
+C:\Copie proiect pt profilephoto\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.pdb
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Owin.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\WebGrease.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.pdb
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro_Social_Platform.Migrations.Initial.resources
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
+C:\Users\user\OneDrive\Documente\Info\Dezvoltarea Aplicatiilor Web\MiSo Poza Profil\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll.config
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.pdb
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe.config
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.rsp
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe.config
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.rsp
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.AppContext.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Collections.Immutable.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Console.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Compression.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Reflection.Metadata.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.AccessControl.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Claims.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.ValueTuple.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe.config
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.rsp
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe.config
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Web.Infrastructure.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Owin.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\WebGrease.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.pdb
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csprojAssemblyReference.cache
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro_Social_Platform.Migrations.Initial.resources
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.GenerateResource.cache
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CoreCompileInputs.cache
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
+F:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll.config
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Micro-Social Platform.pdb
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.exe.config
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csc.rsp
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.exe.config
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\csi.rsp
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.AppContext.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Collections.Immutable.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Console.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Compression.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.IO.Pipes.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Reflection.Metadata.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.AccessControl.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Claims.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.ValueTuple.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.exe.config
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\vbc.rsp
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\roslyn\VBCSCompiler.exe.config
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Web.Infrastructure.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Owin.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\WebGrease.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\AntiXssLibrary.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\HtmlSanitizationLibrary.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Helpers.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Mvc.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Optimization.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.Razor.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Deployment.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\System.Web.WebPages.Razor.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Newtonsoft.Json.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Antlr3.Runtime.pdb
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\EntityFramework.SqlServer.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Google.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csprojAssemblyReference.cache
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro_Social_Platform.Migrations.Initial.resources
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.GenerateResource.cache
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CoreCompileInputs.cache
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.csproj.CopyComplete
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.dll
+D:\Radu\DAW\Proiect DAW\Micro-Social Platform\Micro-Social Platform\obj\Debug\Micro-Social Platform.pdb

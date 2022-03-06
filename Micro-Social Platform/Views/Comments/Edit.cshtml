@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+<div class="jumbotron">
+    <h3>Edit comment</h3>
+    <form method="post" action="/Comments/Edit/@ViewBag.Comment.CommentId">
+        @Html.HttpMethodOverride(HttpVerbs.Put)
+        <br />
+        <textarea name="Content">@ViewBag.Comment.Content</textarea>
+        <br />
+        <button class="btn btn-sm button" type="submit">Edit</button>
+    </form>
+</div>

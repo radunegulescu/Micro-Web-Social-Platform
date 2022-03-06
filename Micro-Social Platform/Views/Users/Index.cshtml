@@ -1,0 +1,61 @@
+﻿@{
+
+    ViewBag.Title = "Users";
+}
+
+<ol class="breadcrumb">
+    <h3>@ViewBag.Title</h3>
+    @Html.ActionLink("Only Friends", "ShowFriends", "Users", new { @class = "btn button3" })
+    @Html.ActionLink("All Users", "Index", "Users", new { @class = "btn button3" })
+    <p>
+        @using (Html.BeginForm("Index", "Users", FormMethod.Get, new { style = "display: flex" }))
+        {
+            <input id="search" name="search" type="text" class="form-control" placeholder="Search" aria-label="Search" />
+            <button class="btn btn-sm button" type="submit">Search</button>
+        }
+    </p>
+</ol>
+<br />
+@if (ViewBag.count == 0)
+{
+    <p>No users found.</p>
+}
+else
+{
+    foreach (var user in ViewBag.Users)
+    {
+        <div class="panel-heading post-heading">Username: @user.NameUser</div>
+
+        <div class="panel-body">
+
+            <i class="glyphicon glyphicon-envelope"></i> User Email: <span class="label label-default">@user.Email</span>
+
+            <br /><br />
+            @if (!(ViewBag.friends.Contains(user.Id)))
+            {
+                <form method="post" action="/Users/AddFriend">
+                    <input type="hidden" name="UserId" value="@user.Id" />
+                    <button class="btn btn-sm button3" type="submit">Add Friend</button>
+                </form>
+            }
+
+        </div>
+
+        <div class="panel-footer">
+            @if (User.IsInRole("Admin"))
+            {
+                <a class="btn btn-sm button" href="/Users/Edit/@user.Id"> Edit User</a>
+            }
+            <a class="btn btn-sm button" href="/Users/Show/@user.Id"> View User</a>
+            @foreach (var prof in ViewBag.UsersProfiles)
+            {
+                if (prof.UserId == user.Id)
+                {
+                    <a class="btn btn-sm button" href="/Profiles/Show/@prof.ProfileId"> View Profile</a>
+                }
+            }
+        </div>
+
+        <br /><br />
+    }
+}

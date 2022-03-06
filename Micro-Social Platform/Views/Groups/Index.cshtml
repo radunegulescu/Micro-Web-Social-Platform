@@ -1,0 +1,64 @@
+﻿@model Micro_Social_Platform.Models.Group
+@{
+    ViewBag.Title = "Groups";
+}
+
+@if (TempData.ContainsKey("message"))
+{
+    <div class="alert alert-warning">
+        <strong>Warning! </strong>@ViewBag.message
+    </div>
+}
+
+<div class="jumbotron">
+    <div class="cont">
+        <p>Here you can create your own group</p>
+        <a class="glyphicon glyphicon-plus accent icon" href="/Groups/New"></a>
+    </div>
+    <p>...or join an existing one!</p>
+</div>
+
+@foreach (Micro_Social_Platform.Models.Group group in ViewBag.Groups)
+{
+    <div class="panel panel-default">
+        <div class="panel-heading post-heading">
+            <span class="post-title">@group.Name</span>
+        </div>
+        <div class="panel-body">
+            <div class="post-content-wrapper">
+                <p class="truncate">@group.Description</p>
+            </div>
+        </div>
+        <div class="post-meta">
+            <span>
+                <i class="glyphicon glyphicon-time"></i>
+                @group.Date
+            </span>
+            <div>
+                <i class="glyphicon glyphicon-user"></i> <i>created by</i> <strong> @group.User.NameUser </strong>
+                @foreach (var prof in ViewBag.UsersProfiles)
+                {
+                    if (prof.UserId == group.UserId && ((prof.IsPublic && ViewBag.friends.Contains(prof.UserId)) || User.IsInRole("Admin")))
+                    {
+                        <a class="btn btn-sm button " href="/Profiles/Show/@prof.ProfileId">View Profile</a>
+                    }
+                }
+            </div>
+        </div>
+        <div class="panel-footer">
+            @if (ViewBag.groupsUser.Contains(group) || User.IsInRole("Admin"))
+            {
+                <a class="btn btn-sm button full-width" href="/Groups/Show/@group.GroupId">Show Group</a>
+            }
+            else
+            {
+                using (Html.BeginForm(actionName: "AddUser", controllerName: "Groups", routeValues: new { id = group.GroupId }, method: FormMethod.Post))
+                {
+                    <button class="btn btn-sm button full-width" type="submit">Join Group</button>
+                }
+            }
+            <div class="clearfix"></div>
+        </div>
+    </div>
+}
+

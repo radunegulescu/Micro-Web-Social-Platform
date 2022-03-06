@@ -1,0 +1,48 @@
+﻿@model Micro_Social_Platform.Models.Group
+@{
+    ViewBag.Title = "Group Show";
+}
+
+<div class="jumbotron">
+    <h2>Welcome to <span class="accent">@Model.Name</span>!</h2>
+    <p>Group description: <span>@Model.Description</span></p>
+    <div class="cont">
+        <p>Add a new post to the group   </p>
+        <a class="glyphicon glyphicon-plus accent icon" href="/Posts/New/@Model.GroupId"></a>
+    </div>
+    <div class="cont">
+        <small>Created by <span class="accent"> @Model.User.NameUser </span>@Model.Date</small>
+    </div>
+    @if (ViewBag.afisareButoane == true && Model.UserId == ViewBag.utilizatorCurent || ViewBag.esteAdmin == true)
+    {
+        <div class="panel-footer">
+            <a class="btn button pull-left" href="/Groups/Edit/@Model.GroupId">Edit Group</a>
+            @using (Html.BeginForm(actionName: "Delete", controllerName: "Groups", routeValues: new { id = Model.GroupId }))
+            {
+                @Html.HttpMethodOverride(HttpVerbs.Delete)
+                <button class="btn button2 pull-right" type="submit">Delete Group</button>
+            }
+            <div class="clearfix"></div>
+        </div>
+    }
+</div>
+
+
+        @foreach (Micro_Social_Platform.Models.Post post in ViewBag.Posts)
+        {
+            <div class="panel panel-default shadow">
+                @Html.Partial("PostInfo2", post)
+                @foreach (var prof in ViewBag.UsersProfiles)
+                {
+                    if (prof.UserId == post.UserId && ((prof.IsPublic && ViewBag.friends.Contains(prof.UserId)) || User.IsInRole("Admin")))
+                    {
+                        <a class="btn btn-sm button pull-right" href="/Profiles/Show/@prof.ProfileId">View Profile</a>
+                    }
+                }
+                <div class="panel-footer">
+                    <a class=" btn btn-sm btn button" href="/Posts/Show/@post.PostId">Show more</a>
+                </div>
+            </div>
+        }
+ 
+

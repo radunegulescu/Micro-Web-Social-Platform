@@ -1,0 +1,144 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #ecf0f1;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.truncate {
+    /* Required declarations: */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    /* Limit the text block to x lines */
+    -webkit-line-clamp: 1;
+}
+
+.navbar {
+    background-color: #c0392b;
+    border: none;
+}
+
+    .navbar a {
+        color: #ecf0f1;
+    }
+
+        .navbar a:hover {
+            color: #16a085;
+        }
+
+.footer-position {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    background: #bdc3c7;
+}
+
+.font-logo {
+    font-family: 'Audiowide', cursive;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.panel-body {
+    background-color: #f5f6fa;
+}
+
+
+.post-heading {
+    background-color: #f5f6fa !important;
+    border-radius: 0 !important;
+    border: none !important;
+    box-shadow: 0 2px 6px #f2f2f2;
+}
+
+.post-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #3c3c3c;
+}
+
+.post-content-wrapper {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.post-meta {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #f5f6fa;
+}
+
+
+.jumbotron {
+    background-color: #f5f6fa !important;
+}
+
+.icon {
+    position: relative;
+    top: 4px;
+    left: 5px;
+    font-size: 20px;
+}
+
+.accent {
+    color: #16a085;
+}
+
+.cont {
+    display: flex;
+    align-content: center;
+}
+.full-width {
+    width: 100%;
+}
+
+.button {
+    background-color: #16a085 !important;
+    color: #ecf0f1;
+}
+.button2 {
+    background-color: #c0392b !important;
+    color: #ecf0f1;
+}
+.button3 {
+    background-color: #ecf0f1;
+    border-color: #bdc3c7;
+    border-width:medium;
+}
+.aliniere {
+    display: flex; 
+    justify-content: space-between;
+}

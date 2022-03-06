@@ -1,0 +1,39 @@
+﻿@model Micro_Social_Platform.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "User Details";
+}
+
+<ol class="breadcrumb">
+    <li><h3>@ViewBag.Title</h3></li>
+</ol>
+
+<div class="panel-heading post-heading">Username: @Model.NameUser</div>
+
+<div class="panel-body">
+
+    <i class="glyphicon glyphicon-envelope"></i> User Email: <span class="label label-default">@Model.Email</span>
+    <br /><br />
+    <i class="glyphicon glyphicon-th-list"></i> User Role: @ViewBag.roleName
+
+    <br /><br />
+    @if (!(ViewBag.friends.Contains(Model.Id)))
+    {
+        <form method="post" action="/Users/AddFriend">
+            <input type="hidden" name="UserId" value="@Model.Id" />
+            <button class="btn btn-sm button3" type="submit">Add Friend</button>
+        </form>
+    }
+</div>
+
+@if ((string)Model.Id != ViewBag.utilizatorCurent && User.IsInRole("Admin"))
+{
+    <div class="panel-footer">
+        @using (Html.BeginForm(actionName: "Delete", controllerName: "Users", routeValues: new { id = @Model.Id }))
+        {
+            @Html.HttpMethodOverride(HttpVerbs.Delete)
+            <br />
+            <button class="btn btn-sm button" type="submit">Delete User</button>
+        }
+    </div>
+}
