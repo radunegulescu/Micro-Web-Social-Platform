@@ -1,8 +1,5 @@
 from testFramework import login
 from selenium import webdriver
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome()
 
@@ -20,7 +17,7 @@ class Test_Login():
         #     logoff_button.click()
         driver.get("http://localhost:54805/Account/Login")
 
-    def test_login_succesfull(self):
+    def test_login_successful(self):
         assert(login.enter_email(driver, "andreineagu672@gmail.com"))
         assert(login.enter_password(driver, "Parola123!"))
         assert(login.press_login_button(driver))

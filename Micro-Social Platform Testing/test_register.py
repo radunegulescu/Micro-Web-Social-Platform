@@ -12,8 +12,8 @@ class Test_Register():
     def teardown_method(self):
         driver.get("http://localhost:54805/Account/Register")
 
-    def test_register_succesfull(self):
-        assert(register.enter_email(driver, "testRegister@gmail.com"))
+    def test_register_successful(self):
+        assert(register.enter_email(driver, "testRegister3@gmail.com"))
         assert(register.enter_username(driver, "testRegister"))
         assert(register.enter_password(driver, "Parola123!"))
         assert(register.enter_confirm_password(driver, "Parola123!"))
