@@ -1,9 +1,4 @@
 import os
-
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.wait import WebDriverWait
-
 from testFramework import profile, login
 from selenium import webdriver
 
@@ -70,10 +65,32 @@ class Test_Profile():
         assert (profile.click_submit_edit_photo(driver))
         assert (not profile.check_no_photo(driver))
 
-    def test_edit_successful(self):
+    def test_edit_failed(self):
         assert (profile.click_edit_profile(driver))
+        assert (profile.enter_empty_name(driver))
+        assert (profile.enter_description(driver, "Sunt haios!"))
+        assert (profile.select_public(driver))
+        assert (profile.click_submit(driver))
+        assert (profile.check_myprofile(driver))
+
+    def test_edit_successful(self):
         assert (profile.enter_name(driver, "Radu"))
         assert (profile.enter_description(driver, "Sunt haios!"))
         assert (profile.select_public(driver))
         assert (profile.click_submit(driver))
         assert (profile.check_myprofile(driver))
+
+    def test_view_profile_failed(self):
+        assert (profile.click_profiles_button(driver))
+        assert (profile.enter_searched_name(driver, "qqq"))
+        assert (profile.click_search_button(driver))
+        assert (not profile.click_profile_button(driver))
+
+    def test_view_profile_successful(self):
+        assert (profile.click_profiles_button(driver))
+        assert (profile.enter_searched_name(driver, "Rad"))
+        assert (profile.click_search_button(driver))
+        assert (profile.click_profile_button(driver))
+        assert (profile.test_profile_name(driver, "Radu"))
+
+

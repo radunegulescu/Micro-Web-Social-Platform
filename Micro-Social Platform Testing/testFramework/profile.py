@@ -56,6 +56,17 @@ def enter_name(driver, name):
         return False
 
 
+def enter_empty_name(driver):
+    try:
+        name_field = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "//*[@id='Name']")))
+        name_field.clear()
+        return True
+    except NoSuchElementException:
+        logger.warning("Entering empty name failed")
+        return False
+
+
 def enter_description(driver, description):
     try:
         name_field = WebDriverWait(driver, 10).until(
@@ -198,4 +209,62 @@ def click_edit_profile(driver):
         logger.warning("Couldn't press the edit profile button")
         return False
 
+
+def click_profiles_button(driver):
+    try:
+        profiles_button = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[1]/div/div[2]/ul/li[3]/a")))
+        profiles_button.click()
+        return True
+    except:
+        logger.warning("Couldn't press the profiles button")
+        return False
+
+
+def enter_searched_name(driver, searched_name):
+    try:
+        search_field = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "//*[@id='search']")))
+        search_field.clear()
+        search_field.send_keys(searched_name)
+        return True
+    except NoSuchElementException:
+        logger.warning("Entering search name failed")
+        return False
+
+
+def click_search_button(driver):
+    try:
+        search_button = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[2]/div[1]/form/button")))
+        search_button.click()
+        return True
+    except:
+        logger.warning("Couldn't press the search button")
+        return False
+
+
+def click_profile_button(driver):
+    try:
+        profile_button = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[2]/div[2]/div[2]/a")))
+        if profile_button:
+            profile_button.click()
+            return True
+        return False
+    except:
+        logger.warning("Couldn't press the search button")
+        return False
+
+
+def test_profile_name(driver, name):
+    try:
+        profile_name = WebDriverWait(driver, 10).until(
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[2]/div/div[2]/div/h4")))
+        if profile_name.text == "Radu":
+            return True
+        return False
+    except:
+        logger.warning("Couldn't press the search button")
+        return False
 
