@@ -1,0 +1,11 @@
+=============================================================== test session starts ================================================================
+platform win32 -- Python 3.10.2, pytest-6.2.5, py-1.11.0, pluggy-1.0.0 -- C:\Users\andre\AppData\Local\Programs\Python\Python310\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\andre\OneDrive\Documents\Anul III\Sem 2\Testare\Proiect Bun\Micro-Web-Social-Platform\Micro-Social Platform Testing
+collecting ... 
+DevTools listening on ws://127.0.0.1:50466/devtools/browser/008b124c-1a7b-43e6-9a2f-882656bdf728
+collected 1 item
+
+test_create_group.py::Test_Create_Group::test_create_group PASSED                                                                             [100%]
+
+================================================================ 1 passed in 7.26s =================================================================

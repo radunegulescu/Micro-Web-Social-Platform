@@ -1,0 +1,13 @@
+=============================================================== test session starts ================================================================
+platform win32 -- Python 3.10.2, pytest-6.2.5, py-1.11.0, pluggy-1.0.0 -- C:\Users\andre\AppData\Local\Programs\Python\Python310\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\andre\OneDrive\Documents\Anul III\Sem 2\Testare\Proiect Bun\Micro-Web-Social-Platform\Micro-Social Platform Testing
+collecting ... 
+DevTools listening on ws://127.0.0.1:58514/devtools/browser/30877588-addf-4a76-9bc5-d2becf1d5b5a
+collected 1 item
+
+test_join_group.py::Test_Add_Friend::test_join_group [21936:5112:0412/102758.580:ERROR:device_event_log_impl.cc(214)] [10:27:58.579] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[21936:5112:0412/102758.580:ERROR:device_event_log_impl.cc(214)] [10:27:58.580] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+PASSED                                                                                   [100%]
+
+================================================================ 1 passed in 28.17s ================================================================ 
