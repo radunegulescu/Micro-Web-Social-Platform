@@ -9,15 +9,20 @@ driver = webdriver.Chrome()
 '''
 For testing:
 andreineagu672@gmail.com
-Parola1234!
+Parola123!
 
 marinela@gmail.com
 username: Marinela
 *123Marinela
 
+adela@gmail.com
+username: Adela
+*123Adela
+
 Logare ca andreineagu672@gmail.com -> Cauta dupa Marinela -> Send FR lui marinela@gmail.com 
 -> deconectare -> Conectare ca  marinela@gmail.com  -> accept friend request 
 '''
+
 def setup_module():
     driver.get("http://localhost:54805/Account/Login")
 
@@ -25,17 +30,15 @@ class Test_Accept_Friend_Request():
     def teardown_method(self):
         driver.get("http://localhost:54805/Account/Login")
 
-    def test_login_successful(self, email, password):
-        assert(login.enter_email(driver, email))
-        assert(login.enter_password(driver, password))
+    def test_add_friends_successful(self):
+        # add a friend from andreineagu
+        assert(login.enter_email(driver, "andreineagu672@gmail.com"))
+        assert(login.enter_password(driver, "Parola123!"))
         assert(login.press_login_button(driver))
         assert(driver.current_url is not None and driver.current_url ==
                "http://localhost:54805/")
 
-    def test_add_friend_successful(self):
-        # add a friend from andreineagu
-        self.test_login_successful("andreineagu672@gmail.com", "Parola1234!")
-
+        # first friend request
         driver.get("http://localhost:54805/Users")
 
         assert(add_a_friend.enter_user_name(driver, "Marinela"))
@@ -43,50 +46,56 @@ class Test_Accept_Friend_Request():
         assert(add_a_friend.press_add_friend_button(driver))
         assert(driver.current_url is not None and driver.current_url ==
                "http://localhost:54805/Users")
-    
-    def test_add_friend_failed(self):
-        # add a friend from andreineagu
-        self.test_login_successful("andreineagu672@gmail.com", "Parola1234!")
 
+        # second friend request
         driver.get("http://localhost:54805/Users")
 
-        assert(add_a_friend.enter_user_name(driver, "Catalina"))
+        assert(add_a_friend.enter_user_name(driver, "Adela"))
         assert(add_a_friend.press_search_user_button(driver))
         assert(add_a_friend.press_add_friend_button(driver))
         assert(driver.current_url is not None and driver.current_url ==
                "http://localhost:54805/Users")
 
-    def test_logoff_successful(self):
-        # add a friend from andreineagu
-       
+
+    def test_accept_friend_request_successful(self):
+        '''
+        Marinela accepts friend request
+        '''
+        #logoff
         assert(logoff.press_logoff_button(driver))
         assert(driver.current_url is not None and driver.current_url ==
                "http://localhost:54805/Account/Login?ReturnUrl=%2F")
 
-    def test_accept_friend_request_successful(self):
-        self.test_add_friend_successful()
-
-        # logoff
-        self.test_logoff_successful()
-
-        # login as marinela
+        # login as Marinela
         driver.get("http://localhost:54805/Account/Login") #resolving some bug
-        self.test_login_successful("marinela@gmail.com", "*123Marinela")
+        assert(login.enter_email(driver, "marinela@gmail.com"))
+        assert(login.enter_password(driver, "*123Marinela"))
+        assert(login.press_login_button(driver))
+        assert(driver.current_url is not None and driver.current_url ==
+               "http://localhost:54805/")
         driver.get("http://localhost:54805/Users/Requests")
 
         assert(accept_friend_request.press_accept_button(driver))
         assert(driver.current_url is not None and driver.current_url.startswith(
             'http://localhost:54805/Users'))
 
+
     def test_reject_friend_request_successful(self):
-        self.test_add_friend_successful()
-
-        # logoff
-        self.test_logoff_successful()
-
-        # login as marinela
+        '''
+        Adela rejects friend request
+        '''
+        #logoff
+        assert(logoff.press_logoff_button(driver))
+        assert(driver.current_url is not None and driver.current_url ==
+               "http://localhost:54805/Account/Login?ReturnUrl=%2F")
+               
+        # login as Adela
         driver.get("http://localhost:54805/Account/Login") #resolving some bug
-        self.test_login_successful("marinela@gmail.com", "*123Marinela")
+        assert(login.enter_email(driver, "adela@gmail.com"))
+        assert(login.enter_password(driver, "*123Adela"))
+        assert(login.press_login_button(driver))
+        assert(driver.current_url is not None and driver.current_url ==
+               "http://localhost:54805/")
         driver.get("http://localhost:54805/Users/Requests")
 
         assert(accept_friend_request.press_reject_button(driver))
@@ -95,16 +104,22 @@ class Test_Accept_Friend_Request():
 
 
     def test_accept_friend_request_failed(self):
-        self.test_add_friend_failed()
-
-        # logoff
-        self.test_logoff_successful()
-
-        # login as marinela
+        '''
+        There is no friend request scenario
+        '''
+        #logoff
+        assert(logoff.press_logoff_button(driver))
+        assert(driver.current_url is not None and driver.current_url ==
+               "http://localhost:54805/Account/Login?ReturnUrl=%2F")
+               
+        # login as andreineagu
         driver.get("http://localhost:54805/Account/Login") #resolving some bug
-        self.test_login_successful("marinela@gmail.com", "*123Marinela")
+        assert(login.enter_email(driver, "andreineagu672@gmail.com"))
+        assert(login.enter_password(driver, "Parola123!"))
+        assert(login.press_login_button(driver))
+        assert(driver.current_url is not None and driver.current_url ==
+               "http://localhost:54805/")
         driver.get("http://localhost:54805/Users/Requests")
 
-        assert(accept_friend_request.press_reject_button(driver))
-        assert(driver.current_url is not None and driver.current_url.startswith(
-            'http://localhost:54805/Users'))
+        assert(accept_friend_request.press_accept_button(driver) == False)
+       
