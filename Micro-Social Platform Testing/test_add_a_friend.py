@@ -5,6 +5,7 @@ from selenium import webdriver
 '''
  User account for testing:
  marinela@gmail.com
+ username: Marinela
  *123Marinela
 '''
 driver = webdriver.Chrome()
@@ -28,11 +29,12 @@ class Test_Add_Friend():
 
         driver.get("http://localhost:54805/Users")
 
-        assert(add_a_friend.enter_user_name(driver, "Marian"))
+        assert(add_a_friend.enter_user_name(driver, "Marinela"))
         assert(add_a_friend.press_search_user_button(driver))
         assert(add_a_friend.press_add_friend_button(driver))
         assert(driver.current_url is not None and driver.current_url ==
-               "http://localhost:54805/")
+               "http://localhost:54805/Users")
+    
     
     def test_add_friend_failed(self):
         self.test_login_successful()
@@ -43,4 +45,4 @@ class Test_Add_Friend():
         assert(add_a_friend.press_search_user_button(driver))
         assert(add_a_friend.press_add_friend_button(driver))
         assert(driver.current_url is not None and driver.current_url ==
-               "http://localhost:54805/")
+               "http://localhost:54805/Users")
