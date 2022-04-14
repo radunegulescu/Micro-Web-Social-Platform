@@ -30,10 +30,9 @@ def press_view_pofile_button(driver):
 def test_profile_name(driver, name):
     try:
         profile_name = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located((By.XPATH, "/html/body/div[2]/div[2]/span")))
-        if profile_name.text == name:
-            return True
-        return False
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[2]/div[1]")))
+        return (name in profile_name.text)
+   
     except:
         logger.warning("Couldn't view the profile")
         return False
