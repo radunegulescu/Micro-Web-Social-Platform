@@ -56,6 +56,24 @@ class Test_Accept_Friend_Request():
         assert(driver.current_url is not None and driver.current_url ==
                "http://localhost:54805/Users")
 
+    def test_add_friend_failed(self):
+        '''
+        A user has already sent friend request to user scenario
+        '''
+         # login
+
+        assert(login.enter_email(driver, "andreineagu672@gmail.com"))
+        assert(login.enter_password(driver, "Parola123!"))
+        assert(login.press_login_button(driver))
+        assert(driver.current_url is not None and driver.current_url ==
+               "http://localhost:54805/")
+
+        driver.get("http://localhost:54805/Users")
+
+        assert(add_a_friend.enter_user_name(driver, "Marinela"))
+        assert(add_a_friend.press_search_user_button(driver))
+        assert(add_a_friend.press_add_friend_button(driver) == False)
+
 
     def test_accept_friend_request_successful(self):
         '''

@@ -39,11 +39,12 @@ def enter_content_post(driver,content):
 
 def press_submit_post(driver):
     try:
-        login_button = WebDriverWait(driver, 10).until(
+        submit_button = WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.XPATH, "/html/body/div[2]/div/form/button")))
-        login_button.click()
+        submit_button.click()
         return True
-    except:
+    except Exception as error:
+        print(error)
         logger.warning("Couldn't press the submit post button")
         return False
 
