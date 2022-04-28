@@ -1,3 +1,5 @@
+import re
+import time
 from selenium.common.exceptions import *
 from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
@@ -32,14 +34,14 @@ def join_group(driver, groupName):
     try:
         all_groups = get_all_groups(driver)
         for group in all_groups:
-            logger.warning(group['Name'])
             if group['Name'] == groupName:
                 group['Submit'].click()
                 return True
         logger.error("Couldn't find the named group in list")
         return False
-    except:
+    except Exception as e:
         logger.warning("Couldn't join the group")
+        logger.warning(e)
         return False
 
 
@@ -85,4 +87,40 @@ def find_group(driver, groupName):
         return False
     except:
         logger.warning("Finding group failed")
+        return False
+
+
+def delete_group(driver):
+    try:
+        delete_button = driver.find_element(
+            By.XPATH, "/html/body/div[2]/div/div[3]/form/button")
+        delete_button.click()
+        return True
+    except:
+        logger.warning("Couldn't press the delete button")
+        return False
+
+
+def edit_group(driver, newGroupName="", newGroupDescription=""):
+    try:
+        edit_button = driver.find_element(
+            By.XPATH, "/html/body/div[2]/div/div[3]/a")
+        edit_button.click()
+        time.sleep(2)
+        if newGroupName != "":
+            # //*[@id="Name"]
+            group_name_input = driver.find_element(
+                By.XPATH, "//*[@id='Name']")
+            group_name_input.send_keys(newGroupName)
+        if newGroupDescription != "":
+            group_name_input = driver.find_element(
+                By.XPATH, "//*[@id='Description']")
+            group_name_input.send_keys(newGroupDescription)
+        # /html/body/div[2]/div/form/button
+        edit_button = driver.find_element(
+            By.XPATH, "/html/body/div[2]/div/form/button")
+        edit_button.click()
+        return True
+    except:
+        logger.warning("Couldn t edit group")
         return False
